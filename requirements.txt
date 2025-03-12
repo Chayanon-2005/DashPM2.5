@@ -1,0 +1,7 @@
+dash
+pandas
+plotly
+pycaret
+scikit-learn
+joblib
+numpy
